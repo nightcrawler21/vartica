@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.12"]
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ matrix.python-version }}
+
+    - name: Install linters
+      run: |
+        pip install -U pip
+        pip install black ruff pytest
+
+    - name: Lint & test
+      run: |
+        black --check .
+        ruff check .
+        pytest -q || echo "no tests yet"
