@@ -13,3 +13,7 @@ dist/
 # IDEs
 .idea/
 .vscode/
+
+# Front-end cache
+web/.next/
+web/node_modules/

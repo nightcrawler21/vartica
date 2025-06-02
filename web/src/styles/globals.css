@@ -1,0 +1,67 @@
+/* === Tailwind base / components / utils === */
+@import "tailwindcss";
+
+/* ------------------------------------------------------------------
+   Brand colour tokens  ─ dark-mode is the default (bg = #0E1112)
+   ------------------------------------------------------------------ */
+:root {
+  /* background + surfaces */
+  --bg-main:        #0e1112;
+  --bg-surface:     #1a1d1f;
+
+  /* brand primaries */
+  --clr-primary-blue:  #87a7ac;
+  --clr-primary-tan:   #e7b97f;
+
+  /* neutrals & accents */
+  --clr-neutral-warm:  #eae6d8;
+  --clr-neutral-cool:  #e4edee;
+  --clr-accent-green:  #677a67;
+
+  /* text */
+  --clr-text:       #f7f8f9;
+
+  /* fonts (can be swapped later) */
+  --font-sans:      var(--font-geist-sans, Arial, Helvetica, sans-serif);
+  --font-mono:      var(--font-geist-mono, ui-monospace, SFMono-Regular);
+}
+
+/* ------------------------------------------------------------------
+   Light-mode override (respect user setting)
+   ------------------------------------------------------------------ */
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg-main:        #ffffff;
+    --bg-surface:     #f6f8f9;
+
+    --clr-text:       #171717;
+    /* keep brand colours identical for recognisability */
+  }
+}
+
+/* ------------------------------------------------------------------
+   Tailwind inline theme hook
+   ------------------------------------------------------------------ */
+@theme inline {
+  --color-background: var(--bg-main);
+  --color-foreground: var(--clr-text);
+
+  --color-primary-blue: var(--clr-primary-blue);
+  --color-primary-tan:  var(--clr-primary-tan);
+
+  --color-neutral-warm: var(--clr-neutral-warm);
+  --color-neutral-cool: var(--clr-neutral-cool);
+  --color-accent:       var(--clr-accent-green);
+
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+}
+
+/* ------------------------------------------------------------------
+   Base element styling
+   ------------------------------------------------------------------ */
+html,
+body {
+  @apply bg-[color:var(--bg-main)] text-[color:var(--clr-text)];
+  font-family: var(--font-sans);
+}
