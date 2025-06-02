@@ -1,0 +1,143 @@
+# ---------- NATIONAL DAILIES ----------
+- id: the-hindu
+  name: The Hindu
+  rss: https://www.thehindu.com/feeder/default.rss
+  bias: Centre
+  region: national
+
+- id: indian-express
+  name: The Indian Express
+  rss: https://indianexpress.com/feed/
+  bias: Centre
+  region: national
+
+- id: times-of-india
+  name: The Times of India
+  rss: https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+  bias: Right
+  region: national
+
+- id: hindustan-times
+  name: Hindustan Times
+  rss: https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml
+  bias: Centre
+  region: national
+
+- id: economic-times
+  name: The Economic Times
+  rss: https://m.economictimes.com/rssfeedsdefault.cms
+  bias: Right
+  region: national
+
+- id: ndtv
+  name: NDTV
+  rss: https://feeds.feedburner.com/ndtvnews-india-news
+  bias: Left
+  region: national
+
+- id: india-today
+  name: India Today
+  rss: https://www.indiatoday.in/rss/home
+  bias: Right
+  region: national
+
+- id: scroll
+  name: Scroll.in
+  rss: https://scroll.in/feed
+  bias: Left
+  region: national
+
+- id: the-wire
+  name: The Wire
+  rss: https://thewire.in/feed
+  bias: Left
+  region: national
+
+- id: livemint
+  name: Mint
+  rss: https://www.livemint.com/rss/opinion
+  bias: Centre
+  region: national
+
+# ---------- DIGITAL NATIVES ----------
+- id: the-quint
+  name: The Quint
+  rss: https://www.thequint.com/feed
+  bias: Left
+  region: national
+
+- id: print
+  name: ThePrint
+  rss: https://theprint.in/feed/
+  bias: Centre
+  region: national
+
+- id: newsminute
+  name: The News Minute
+  rss: https://www.thenewsminute.com/rss.xml
+  bias: Centre
+  region: national
+
+- id: opindia
+  name: OpIndia
+  rss: https://www.opindia.com/feed/
+  bias: Right
+  region: national
+
+- id: boomlive
+  name: BOOM FactCheck
+  rss: https://www.boomlive.in/rss/india.xml
+  bias: Left
+  region: national
+
+# ---------- BUSINESS / TECH ----------
+- id: business-standard
+  name: Business Standard
+  rss: https://www.business-standard.com/rss/home_page_top_story.rss
+  bias: Centre
+  region: national
+
+- id: moneycontrol
+  name: Moneycontrol
+  rss: https://www.moneycontrol.com/rss/latestnews.xml
+  bias: Right
+  region: national
+
+- id: inc42
+  name: Inc42
+  rss: https://inc42.com/feed/
+  bias: Centre
+  region: national
+
+# ---------- REGIONAL FLAGSHIPS ----------
+- id: anandabazar
+  name: Anandabazar Patrika (eng)
+  rss: https://www.abplive.com/feeds/english-news.rss
+  bias: Centre
+  region: bengal
+
+- id: deccan-herald
+  name: Deccan Herald
+  rss: https://www.deccanherald.com/rss_feeds/topstories
+  bias: Centre
+  region: karnataka
+
+- id: hindu-tamil
+  name: Hindu Tamil (eng)
+  rss: https://www.hindutamil.in/english/rss
+  bias: Centre
+  region: tamil-nadu
+
+- id: sakal
+  name: Sakal (eng)
+  rss: https://www.esakal.com/english/feed
+  bias: Right
+  region: maharashtra
+
+- id: assam-tribune
+  name: The Assam Tribune
+  rss: https://assamtribune.com/rss.xml
+  bias: Centre
+  region: northeast
+
+# (…add more when ready) #
