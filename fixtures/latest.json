@@ -1,12 +1,552 @@
 [
   {
-    "id": "cf58131c-d63d-4c2f-9a23-16f3f88baf9d",
-    "title": "India’s Q4 GDP beats estimates at 7.8 %",
-    "summary": "India’s economy grew 7.8 % in the March quarter, led by services and manufacturing, outpacing market expectations.",
-    "pub_date": "2025-06-01T08:30:00+05:30",
+    "id": "9ecf3ea6985be3a1ff3ba6bdd2458b2d",
+    "title": "‘Back to School’ helps over 50 children resume education",
+    "summary": "Claimed to be the first of its kind in the State, the project was launched under the social policing wing of the Kozhikode City police",
+    "pub_date": "2025-06-04T20:54:46+05:30",
     "publisher": "The Hindu",
-    "publisher_logo": "https://logo.thehindu.com.svg",
+    "publisher_logo": "",
     "bias": "Centre",
-    "image": "https://img.thehindu.com/…/markets.jpg"
+    "image": ""
+  },
+  {
+    "id": "e7b4df6fbbf744269f2ba8527b062aa9",
+    "title": "LSG dept. to organise green ride on Thursday",
+    "summary": "",
+    "pub_date": "2025-06-04T20:54:42+05:30",
+    "publisher": "The Hindu",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": ""
+  },
+  {
+    "id": "71867ee8b978fc9238052df068937fca",
+    "title": "Unable to defeat Congress on the development front, BJP began sowing communal seeds on the coast: Manjunath Bhandary",
+    "summary": "KPCC has constitued a fact-finding committe to study the reasons for communal tension on the coast and the committe is asked to submit its report within a week, he says",
+    "pub_date": "2025-06-04T20:54:20+05:30",
+    "publisher": "The Hindu",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": "https://th-i.thgim.com/public/news/cities/Mangalore/m5vkcg/article69656946.ece/alternates/LANDSCAPE_1200/IMG-20250604-WA0258.jpg"
+  },
+  {
+    "id": "1e7a46db36e424269ce3a42b316c2ce5",
+    "title": "Focus on waste audit, segregation and management in 100-day municipal action plan",
+    "summary": "",
+    "pub_date": "2025-06-04T20:53:58+05:30",
+    "publisher": "The Hindu",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": "https://th-i.thgim.com/public/incoming/cmi6jx/article69657690.ece/alternates/LANDSCAPE_1200/DSC_7605.jpg"
+  },
+  {
+    "id": "30eef6106ce84212d2572d3109cd317e",
+    "title": "Woman held for cheating retired government official of ₹8-lakh",
+    "summary": "",
+    "pub_date": "2025-06-04T20:53:32+05:30",
+    "publisher": "The Hindu",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": ""
+  },
+  {
+    "id": "d3a01e9c1cde634c3d0ce3a598aa91d0",
+    "title": "Many stampedes...: Siddaramaiah's Kumbh reference after Bengaluru tragedy",
+    "summary": "<a href=\"https://www.indiatoday.in/india/karnataka/story/many-stampedes-siddaramaiah-kumbh-reference-after-bengaluru-tragedy-2735801-2025-06-04\"> <img align=\"left\" alt=\"\" border=\"0\" height=\"180\" hspac",
+    "pub_date": "2025-06-04T20:29:36+05:30",
+    "publisher": "India Today",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "07540f19fd41b98f9239fdf2f8aef61b",
+    "title": "Siddaramaiah reveals what triggered Bengaluru stampede: '2-3 lakh people gathered'",
+    "summary": "The Congress leader said the turnout was far beyond what the government had anticipated.",
+    "pub_date": "2025-06-04T20:27:11+05:30",
+    "publisher": "Hindustan Times",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": "https://www.hindustantimes.com/ht-img/img/2025/06/04/1600x900/ANI-20250604240-0_1749048945121_1749048957962.jpg"
+  },
+  {
+    "id": "059a23ced31b9fa2616a1fead08989f8",
+    "title": "'Did not expect so many people': CM Siddaramaiah on B'luru stampede",
+    "summary": "",
+    "pub_date": "2025-06-04T20:23:31+05:30",
+    "publisher": "The Times of India",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "d776ffd7b86de8f898a8dce3f494ddff",
+    "title": "\"Didn't Expect Such Crowd\": Siddaramaiah Announces Inquiry Into Bengaluru Stampede",
+    "summary": "Siddaramaiah said the government will provide free treatment to the injured",
+    "pub_date": "2025-06-04T20:22:54+05:30",
+    "publisher": "NDTV",
+    "publisher_logo": "",
+    "bias": "Left",
+    "image": "https://c.ndtvimg.com/2025-02/ardbme1g_siddaramaiah-hands-folded_625x300_19_February_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
+  },
+  {
+    "id": "ebfdd8e3d931569efe0f6ed3c0395959",
+    "title": "\"Let Chief Minister Fix Responsibility\": Karnataka BJP Head On Stampede",
+    "summary": "BY Vijayendra meets the injured at a hospital in Bengaluru",
+    "pub_date": "2025-06-04T20:20:24+05:30",
+    "publisher": "NDTV",
+    "publisher_logo": "",
+    "bias": "Left",
+    "image": "https://c.ndtvimg.com/2025-06/mcu2jg7_vijayendra-yediyurappa_625x300_04_June_25.jpeg"
+  },
+  {
+    "id": "db7e2efad10d0c66198536063019fd7c",
+    "title": "\"Officials Inside Stadium Weren't Aware\": IPL Chairman On Celebrations Amid Tragedy",
+    "summary": "11 people were killed in a stampede in Bengaluru",
+    "pub_date": "2025-06-04T20:18:30+05:30",
+    "publisher": "NDTV",
+    "publisher_logo": "",
+    "bias": "Left",
+    "image": "https://c.ndtvimg.com/2025-06/oilggq1k_rcb-bengaluru_625x300_04_June_25.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738"
+  },
+  {
+    "id": "07118b48c7b834750f3068a60e1c6ea6",
+    "title": "\"Absolutely Heartrending\": PM On Bengaluru Stampede Deaths During RCB Event",
+    "summary": "Chief Minister Siddaramaiah has ordered a magisterial inquiry.",
+    "pub_date": "2025-06-04T20:14:20+05:30",
+    "publisher": "NDTV",
+    "publisher_logo": "",
+    "bias": "Left",
+    "image": "https://c.ndtvimg.com/2025-06/62g2l05k_pm-modi-bengaluru-stampede_625x300_04_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
+  },
+  {
+    "id": "852606f7b24bc2734299d353edeea912",
+    "title": "11 Dead In Stampede Outside Bengaluru Stadium Amid RCB Celebrations",
+    "summary": "The chaos began after a crowd gathered near M Chinnaswamy Stadium for a felicitation of RCB",
+    "pub_date": "2025-06-04T20:14:09+05:30",
+    "publisher": "NDTV",
+    "publisher_logo": "",
+    "bias": "Left",
+    "image": "https://c.ndtvimg.com/2025-06/d92v7lv_rcb-celebraton_625x300_04_June_25.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738"
+  },
+  {
+    "id": "01847dce0a0cbec8c64f1d3f793e1b8e",
+    "title": "'Heartrending': PM Modi says 'thoughts with those who lost loved ones' in stampede",
+    "summary": "A stampede near M Chinnaswamy Stadium in Bengaluru resulted in multiple fatalities and injuries, prompting Prime Minister Modi to express his grief. While initial reports indicated eight deaths, BJP K",
+    "pub_date": "2025-06-04T19:58:35+05:30",
+    "publisher": "The Times of India",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "8f05e6dd752d2ac832201dd8ec6dcc6c",
+    "title": "PM Modi condoles Bengaluru stampede tragedy, prays for speedy recovery of injured",
+    "summary": "A celebratory gathering outside Bengaluru’s M Chinnaswamy Stadium turned tragic on Wednesday as a stampede claimed ten lives and left several others injured.",
+    "pub_date": "2025-06-04T19:45:14+05:30",
+    "publisher": "Hindustan Times",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": "https://www.hindustantimes.com/ht-img/img/2025/06/04/1600x900/PTI05-23-2025-000121B-0_1748409496470_1749046657779.jpg"
+  },
+  {
+    "id": "1cbc1ffcd084cf1ed776815dc7305e10",
+    "title": "'Totally shocking': BCCI break silence on Chinnaswamy Stampede",
+    "summary": "Tragedy struck Bengaluru's Chinnaswamy Stadium during Royal Challengers Bengaluru's IPL title celebration, resulting in at least eight fatalities and over 40 injuries due to a stampede. BCCI Secretary",
+    "pub_date": "2025-06-04T19:42:50+05:30",
+    "publisher": "The Times of India",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "f5617819c239b4521cba3763edf197e6",
+    "title": "'Optics over action': JNU students' union hits out over ‘kulguru’ move",
+    "summary": "The JNUSU accused the administration of engaging in “optics over action,” and demanded urgent reforms.",
+    "pub_date": "2025-06-04T19:38:07+05:30",
+    "publisher": "Hindustan Times",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": "https://www.hindustantimes.com/ht-img/img/2025/06/04/1600x900/JNUSU-kulguru_1749042788715_1749042789034.jpg"
+  },
+  {
+    "id": "a390b6b1017ac75059286b6458de5ef5",
+    "title": "Uttarakhand cabinet approves Lord Vishnu icon constructions at Badrinath",
+    "summary": "CSR or government sources will fund the initiatives, with the cabinet restructuring the HRC and exempting hybrid vehicles of motor vehicle tax to cut pollution.",
+    "pub_date": "2025-06-04T19:35:42+05:30",
+    "publisher": "Hindustan Times",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": "https://www.hindustantimes.com/ht-img/img/2025/06/04/1600x900/Badrinath_Dham_1749041704714_1749041704957.jpg"
+  },
+  {
+    "id": "1b9f542069462b07d5ef984f646c1964",
+    "title": "‘I saw three girls fall’: Eyewitnesses recall Bengaluru stampede horror",
+    "summary": "Visuals showed a car damaged after fans climbed over it outside Chinnaswamy Stadium as thousands gathered to see the Royal Challengers Bengaluru team.",
+    "pub_date": "2025-06-04T19:16:51+05:30",
+    "publisher": "Hindustan Times",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": "https://www.hindustantimes.com/ht-img/img/2025/06/04/1600x900/India-Stadium-Stampede-2_1749044585090_1749044619623.jpg"
+  },
+  {
+    "id": "646f5cf5ce6d1f144499f667aa4925de",
+    "title": "Lapses at RCB event, BCCI had no role: Cricket body official on stampede",
+    "summary": "<a href=\"https://www.indiatoday.in/sports/cricket/story/ipl-2025-bengaluru-stampede-rcb-celebration-bcci-devajit-saikia-2735752-2025-06-04\"> <img align=\"left\" alt=\"\" border=\"0\" height=\"180\" hspace=\"2\"",
+    "pub_date": "2025-06-04T19:10:31+05:30",
+    "publisher": "India Today",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "62b537c9a4cfbb3471efc2bc36369adf",
+    "title": "B'luru stampede: BJP blames Cong's 'haste'; DKS gives 'ended in 10 mins' reply",
+    "summary": "Following a tragic stampede at an RCB IPL victory celebration in Bengaluru, Karnataka's Deputy CM, DK Shivakumar, has urged the public to remain calm, assuring that the government is working to restor",
+    "pub_date": "2025-06-04T18:58:28+05:30",
+    "publisher": "The Times of India",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "e2526e0cb099a367bc9594524f6f56bc",
+    "title": "Scam alert! Sebi warns investors against fraudulent communications demanding fines, using fake logos",
+    "summary": "Sebi cautioned investors about fraudsters posing as officials using forged notices, seals, and fake sale certificates via social media to extort money. It urged the public to verify all communications",
+    "pub_date": "2025-06-04T18:52:44+05:30",
+    "publisher": "The Economic Times",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "4d4a53f29abc0b75dc91f52c2cffc622",
+    "title": "Prestige Estates among top 3 real estate stock picks by Axis Securities for FY26",
+    "summary": "Axis Securities stays bullish on real estate for FY26, citing strong booking growth, resilient demand, and robust project pipelines. Top picks include Prestige Estates, SignatureGlobal, and Arvind Sma",
+    "pub_date": "2025-06-04T17:51:42+05:30",
+    "publisher": "The Economic Times",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "e8f071fa6dd375cc7968acf3c8b2b10d",
+    "title": "2-3 lakh turned up at stadium with capacity for 35,000, says Siddaramaiah",
+    "summary": "<a href=\"https://www.indiatoday.in/cities/bengaluru/story/bengaluru-stampede-dead-chinnaswamy-stadium-amid-rcb-ipl-victory-celebrations-2735702-2025-06-04\"> <img align=\"left\" alt=\"\" border=\"0\" height=",
+    "pub_date": "2025-06-04T17:46:32+05:30",
+    "publisher": "India Today",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "04bee7bf892a0f2a4e3b4c7005bd19bd",
+    "title": "11 dead, 47 injured in stampede outside Bengaluru stadium during RCB event",
+    "summary": "<a href=\"https://www.indiatoday.in/india/story/bengaluru-in-stampede-rcbs-ipl-win-celebrations-chinnaswamy-stadium-dead-injured-2735686-2025-06-04\"> <img align=\"left\" alt=\"\" border=\"0\" height=\"180\" hs",
+    "pub_date": "2025-06-04T17:22:22+05:30",
+    "publisher": "India Today",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "db5b0b93362b0ac9456e1398d519be87",
+    "title": "Crude Oil caught between war winds and OPEC’s supply surge. 3 things charts suggest",
+    "summary": "crude oil price today,: Crude oil prices remained steady amid conflicting pressures—rising OPEC+ output and bearish sentiment were offset by Canadian wildfires, tight global inventories, and strong tr",
+    "pub_date": "2025-06-04T16:41:58+05:30",
+    "publisher": "The Economic Times",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "8a5120a9e691135b7da1e71cc5e4ea4c",
+    "title": "43% of Indian HNIs save less than 20% of their income, says Marcellus–D&amp;B Wealth 2025 survey",
+    "summary": "The India Wealth Survey 2025, which surveyed 465 households across 28 cities, revealed that 43% of high-net-worth individuals (HNIs) save less than 20% of their post-tax income, despite aspiring for e",
+    "pub_date": "2025-06-04T16:01:41+05:30",
+    "publisher": "The Economic Times",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "00221c8c888d549cfe63cd26119b4c08",
+    "title": "Global shake-up: America’s retreat spells a big opportunity for Europe",
+    "summary": "Europe needs to stay united against US divide-and-rule attempts, implement regulatory reforms for economic efficiency and open its gates to further immigration. Politics mustn’t get in the way of prag",
+    "pub_date": "2025-06-04T16:00:07+05:30",
+    "publisher": "Mint",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": "https://www.livemint.com/lm-img/img/2025/06/04/1600x900/g15b8661d4638da5c1c802e6e56a7b3ee065c096d5eb8724a_1749022885572_1749022885878.jpg"
+  },
+  {
+    "id": "b12c5433c56ae54f6fb67ec09b15e8c1",
+    "title": "Andy Mukherjee: Importers hit by Trump tariffs could turn to ‘glocal banks’",
+    "summary": "Trade finance isn’t just about lubricating cross-border commerce, but also about easing flows of business intelligence. Banks that are both global and local—and specialize in Asian trade financing—cou",
+    "pub_date": "2025-06-04T15:00:06+05:30",
+    "publisher": "Mint",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": "https://www.livemint.com/lm-img/img/2025/06/03/1600x900/2-0-167118191-hsbc-bank3-0_1680853442632_1748951598062.JPG"
+  },
+  {
+    "id": "593ba3c2da5659326c008edac0d28c3b",
+    "title": "Vivek Gupta Quits As CoinDCX CTO Amid Reports Of More Churn In Top Tier",
+    "summary": "<img alt=\"Vivek Gupta Quits As CoinDCX CTO Amid Reports Of More Churn In Top Tier\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://as",
+    "pub_date": "2025-06-04T14:29:57+00:00",
+    "publisher": "Inc42",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": ""
+  },
+  {
+    "id": "70b05bed259dcb68a9631b9aa9e8a68e",
+    "title": "Arrested ISI spy Shakur Khan visited Pakistan after informing former Rajasthan Congress minister Mohammad Saleh, brought ‘gifts’ for him",
+    "summary": "<a href=\"https://www.opindia.com/2025/06/isi-spy-shakur-khan-visited-pakistan-after-informing-congress-leader-mohammad-saleh-brought-gifts-for-him/\" rel=\"nofollow\" title=\"Arrested ISI spy Shakur Khan ",
+    "pub_date": "2025-06-04T14:18:40+00:00",
+    "publisher": "OpIndia",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "6e9ab93672701a4670b8ab8be51c7cac",
+    "title": "Crisis alert: Careless water management poses India an existential threat",
+    "summary": "India needs a mission-driven systemic approach towards securing and managing its water resources. As global warming starts melting Himalayan glaciers, we must harness the impact of climate change for ",
+    "pub_date": "2025-06-04T14:00:05+05:30",
+    "publisher": "Mint",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": "https://www.livemint.com/lm-img/img/2025/06/03/1600x900/2-0-133813732-P1-AT994-0_1681186107304_1748951492144.jpg"
+  },
+  {
+    "id": "711d26b1dcc86c5864231b3a08c5d143",
+    "title": "Joy Turns Tragic: Stampede Breaks Out Amid RCB's Celebration, Multiple Dead",
+    "summary": "RCB's IPL celebration event took a devastating turn in Bengaluru.",
+    "pub_date": "2025-06-04T13:35:39.578000+00:00",
+    "publisher": "The Quint",
+    "publisher_logo": "",
+    "bias": "Left",
+    "image": ""
+  },
+  {
+    "id": "436aafc846b98ec178f9845783209e55",
+    "title": "Startups Building Indian LLMs Also Need A Global Vision: IndiaAI Mission CEO",
+    "summary": "<img alt=\"Abhishek Singh, IndiaAI Mission\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2024/10/AI-India-Mission_F",
+    "pub_date": "2025-06-04T13:34:26+00:00",
+    "publisher": "Inc42",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": ""
+  },
+  {
+    "id": "0ed89b6f5c3e5c1be87ae84687b5fb55",
+    "title": "Exclusive: Naagin Bags $2.1 Mn From 360ONE Asset, Others",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/06/Naagin-ftr-1.jpg\" style=\"display: block; margin: ",
+    "pub_date": "2025-06-04T13:27:39+00:00",
+    "publisher": "Inc42",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": ""
+  },
+  {
+    "id": "1c74dbc33fa48cd055b3adbf7cbfd015",
+    "title": "Population census including caste enumeration to begin on 1st May 2027, to be conducted in two phases",
+    "summary": "<a href=\"https://www.opindia.com/2025/06/population-census-including-caste-enumeration-to-begin-on-1st-may-2027/\" rel=\"nofollow\" title=\"Population census including caste enumeration to begin on 1st Ma",
+    "pub_date": "2025-06-04T13:25:11+00:00",
+    "publisher": "OpIndia",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "dc3f093cb4f0cb9564eb41aaf94b5d1b",
+    "title": "Bihar twist: Owaisi, dubbed BJP's 'B team' by RJD, Congress, wants to join INDIA",
+    "summary": "<a href=\"https://www.indiatoday.in/elections/assembly/story/asaduddin-owaisi-aimim-join-proposal-mahagathbandhan-india-bloc-bihar-assembly-elections-rjd-tejashwi-yadav-congress-rahul-gandhi-2735535-20",
+    "pub_date": "2025-06-04T13:21:49+05:30",
+    "publisher": "India Today",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "a591181f7dc3c412f0d05c84631585f7",
+    "title": "Canada: York Regional Police gets trolled for dancing to Punjabi song, netizens ask “is there any respectable profession left in Canada”",
+    "summary": "<a href=\"https://www.opindia.com/2025/06/canada-york-regional-police-gets-trolled-for-dancing-to-punjabi-song-netizens-ask-is-there-any-respectable-profession-left-in-canada/\" rel=\"nofollow\" title=\"Ca",
+    "pub_date": "2025-06-04T12:56:44+00:00",
+    "publisher": "OpIndia",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "2e0965f7629a1a19c7abffdf542beddd",
+    "title": "WazirX Sets Up Panama Entity To Escape Singapore Crypto Noose",
+    "summary": "<img alt=\"\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2024/08/wazirx-moratorium-featured.png\" style=\"display: b",
+    "pub_date": "2025-06-04T12:54:25+00:00",
+    "publisher": "Inc42",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": ""
+  },
+  {
+    "id": "7307fb781369dbbd914b7f27d5b0d450",
+    "title": "Rahul Jacob: Manufacturing is crying out for a reality check",
+    "summary": "China’s success has wowed the world even as its factory trends catch on globally. It’s ironic that so much policy attention is being paid to manufacturing while this sector’s job generation drops than",
+    "pub_date": "2025-06-04T12:30:02+05:30",
+    "publisher": "Mint",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": "https://www.livemint.com/lm-img/img/2025/06/03/1600x900/2-0-430123641-000-478700411-0_1680668246089_1748950192404.jpg"
+  },
+  {
+    "id": "04fccbac308aa420eb323dc85637f1a5",
+    "title": "Supreme Court dismisses Waqf Board’s claim over Gurdwara in Delhi, asks to voluntarily renounce claim as a religious structure is already functioning",
+    "summary": "<a href=\"https://www.opindia.com/2025/06/supreme-court-dismisses-waqf-boards-claim-over-gurdwara-in-delhi/\" rel=\"nofollow\" title=\"Supreme Court dismisses Waqf Board’s claim over Gurdwara in Delhi, ask",
+    "pub_date": "2025-06-04T12:09:42+00:00",
+    "publisher": "OpIndia",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "eb9b7fe87e3a9946d07210196714df29",
+    "title": "Karnataka: Baba Jaan rapes and murders an 80-year old woman, robs victim’s money and jewellery, arrested",
+    "summary": "<a href=\"https://www.opindia.com/2025/06/karnataka-baba-jaan-rapes-and-murders-an-80-year-old-woman/\" rel=\"nofollow\" title=\"Karnataka: Baba Jaan rapes and murders an 80-year old woman, robs victim&#82",
+    "pub_date": "2025-06-04T12:00:43+00:00",
+    "publisher": "OpIndia",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "0cdafe9eee3073a02a54353e0c395a6b",
+    "title": "Devina Mehra: Yes, AI is coming for our jobs; it’s the old story of new tech",
+    "summary": "The worry of job losses caused by artificial intelligence (AI) should not be exaggerated. Any such innovation usually creates new jobs while taking away others. Even the original Luddites would’ve see",
+    "pub_date": "2025-06-04T12:00:02+05:30",
+    "publisher": "Mint",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": "https://www.livemint.com/lm-img/img/2025/06/03/1600x900/luddites_1748966442477_1748966466425.jpeg"
+  },
+  {
+    "id": "eda1d4b1788874f725c14b4cc35e7d66",
+    "title": "India’s CDS Breaks Silence on IAF Losses: Why the Admission is Significant",
+    "summary": "It’s not understood why the government tried to hide the marginal equipment loss as casualties are part of any war.",
+    "pub_date": "2025-06-04T11:47:36.499000+00:00",
+    "publisher": "The Quint",
+    "publisher_logo": "",
+    "bias": "Left",
+    "image": ""
+  },
+  {
+    "id": "04531de1d9e076c75aad6054817fe684",
+    "title": "फॅक्ट चेक : या कांगारूने विमानात चढण्याचा प्रयत्न केला का? नाही, एआय आहे!",
+    "summary": "ही क्लिप एआयने तयार केलेला व्हिडिओ आहे आणि त्यात कांगारू विमानात चढण्याचा प्रयत्न करताना दिसत नाही.",
+    "pub_date": "2025-06-04T11:28:58.771000+00:00",
+    "publisher": "The Quint",
+    "publisher_logo": "",
+    "bias": "Left",
+    "image": ""
+  },
+  {
+    "id": "c64bb060a76685fe8241de846a5b7d8a",
+    "title": "Fact-Check: Did Pakistan Shoot Down a US Air Force F-35 Jet in New Mexico? No!",
+    "summary": "The video dates back to May 2024 and shows a fighter jet which crashed in a military accident in USA's New Mexico.",
+    "pub_date": "2025-06-04T10:55:12.233000+00:00",
+    "publisher": "The Quint",
+    "publisher_logo": "",
+    "bias": "Left",
+    "image": ""
+  },
+  {
+    "id": "17990c283c50f2e5eb261da52e28f812",
+    "title": "मनोहर लाल धाकड़ के साथ वीडियो में नजर आई महिला का नहीं यह इंटरव्यू",
+    "summary": "वीडियो में लड़की मनोहर लाल धाकड़ के बारे में नहीं बल्कि फिल्म डायरेक्टर सनोज मिश्रा के बारे में बात कर रही है.",
+    "pub_date": "2025-06-04T10:33:09.822000+00:00",
+    "publisher": "The Quint",
+    "publisher_logo": "",
+    "bias": "Left",
+    "image": ""
+  },
+  {
+    "id": "f4b4f85d763d3390f7d999ba2389039e",
+    "title": "Zepto Puts IPO Plans On Hold: Report",
+    "summary": "<img alt=\"Zepto Puts IPO Plans On Hold: Report\" class=\"webfeedsFeaturedVisual wp-post-image\" height=\"1020\" src=\"https://inc42.com/cdn-cgi/image/quality=75/https://asset.inc42.com/2025/06/zepto-funding",
+    "pub_date": "2025-06-04T10:15:16+00:00",
+    "publisher": "Inc42",
+    "publisher_logo": "",
+    "bias": "Centre",
+    "image": ""
+  },
+  {
+    "id": "f24e7cec6239a7f5ff6c5328f89e29b4",
+    "title": "Flipkart exits Aditya Birla Fashion and Retail in Rs 582 crore bulk deal; ABFRL stock tumbles 11%",
+    "summary": "Flipkart Investments Private Limited divested its 6% stake in Aditya Birla Fashion & Retail. The sale occurred in a bulk deal for Rs 582 crore. Following this, ABFRL's stock experienced a 9% drop. Gol",
+    "pub_date": "2025-06-04T09:43:12+05:30",
+    "publisher": "The Economic Times",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "cf1fce10bd2964fb4162b777748ffb18",
+    "title": "War twist: Ukraine’s drone used my open-source code, says shocked developer",
+    "summary": "ArduPilot, an open-source software initially created for hobbyist drones, has reportedly been used in a Ukrainian attack that destroyed a portion of Russia's strategic bomber fleet. The software's cre",
+    "pub_date": "2025-06-04T00:15:45+05:30",
+    "publisher": "The Times of India",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "6ce8840a6f4d71208a784c6a76680f61",
+    "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
+    "summary": "<img align=\" left\" alt=\"Buy HDFC Bank; target of Rs 1,850: ICICI Securities\" border=\"0\" height=\"75\" hspace=\"5\" src=\"https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy-378x213_200.jpg\" ti",
+    "pub_date": "2024-04-23T13:41:02+05:30",
+    "publisher": "Moneycontrol",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "07ad6d3686606191d0c38a5a29956be0",
+    "title": "Buy Tejas Networks; target of Rs 1100: Emkay Global Financial",
+    "summary": "<img align=\" left\" alt=\"Buy Tejas Networks; target of Rs 1100: Emkay Global Financial\" border=\"0\" height=\"75\" hspace=\"5\" src=\"https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_",
+    "pub_date": "2024-04-23T13:36:47+05:30",
+    "publisher": "Moneycontrol",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "fe71a05a028b9442e7ae44ea0ec05a6d",
+    "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
+    "summary": "<img align=\" left\" alt=\"Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial\" border=\"0\" height=\"75\" hspace=\"5\" src=\"https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_5",
+    "pub_date": "2024-04-23T13:36:44+05:30",
+    "publisher": "Moneycontrol",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "3ed642b4e0898c19666e233d53230727",
+    "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
+    "summary": "<img align=\" left\" alt=\"Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial\" border=\"0\" height=\"75\" hspace=\"5\" src=\"https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_5",
+    "pub_date": "2024-04-23T13:36:44+05:30",
+    "publisher": "Moneycontrol",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
+  },
+  {
+    "id": "a4e9c22c27bac93ab0707b12b3b4eb72",
+    "title": "Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial",
+    "summary": "<img align=\" left\" alt=\"Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial\" border=\"0\" height=\"75\" hspace=\"5\" src=\"https://www.moneycontrol.com/news_image_files/2023/200x200/R/Reduce",
+    "pub_date": "2024-04-23T13:26:31+05:30",
+    "publisher": "Moneycontrol",
+    "publisher_logo": "",
+    "bias": "Right",
+    "image": ""
   }
 ]
